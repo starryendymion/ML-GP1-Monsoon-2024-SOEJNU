@@ -22,20 +22,20 @@ https://www.kaggle.com/datasets/evilspirit05/english-fake-news-dataset
 
 ## Notebooks
 
-1. **01-Dataset Analysis and Preprocessing.ipynb**: 
+1. **01-Dataset-Analysis-and-Preprocessing.ipynb**: 
    - Preprocesses and cleans the dataset, including tokenization, stopword removal, and lemmatization.
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/starryendymion/ML-GP1-Monsoon-2024-SOEJNU/blob/main/notebooks/1_Data_Preprocessing.ipynb)
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/starryendymion/ML-GP1-Monsoon-2024-SOEJNU/blob/main/notebooks/01-Dataset-Analysis-and-Preprocessing.ipynb)
 
 2. **02-Training-CASE1.ipynb**:
    - Builds and trains a Bidirectional LSTM model from scratch, with quantization applied.
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/starryendymion/ML-GP1-Monsoon-2024-SOEJNU/blob/main/notebooks/2_Bidirectional_LSTM_Training.ipynb)
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/starryendymion/ML-GP1-Monsoon-2024-SOEJNU/blob/main/notebooks/02-Training-CASE1.ipynb)
 
-3. **03-Training(CASE2).ipynb**:
+3. **03-Training-CASE2.ipynb**:
    - Fine-tunes the ALBERT model on the fake news dataset, with quantization applied.
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/starryendymion/ML-GP1-Monsoon-2024-SOEJNU/blob/main/notebooks/3_ALBERT_Fine_Tuning.ipynb)
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/starryendymion/ML-GP1-Monsoon-2024-SOEJNU/blob/main/notebooks/03-Training-CASE2.ipynb)
 
-4. **04-Inference and Evaluation.ipynb**:
+4. **04-Inference-and-Evaluation.ipynb**:
    - Compares the models based on accuracy, efficiency, and scalability. Generates performance metrics and visualizations.
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/starryendymion/ML-GP1-Monsoon-2024-SOEJNU/blob/main/notebooks/4_Evaluation_Comparison.ipynb)
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/starryendymion/ML-GP1-Monsoon-2024-SOEJNU/blob/main/notebooks/04-Inference-and-Evaluation.ipynb)
 
 
